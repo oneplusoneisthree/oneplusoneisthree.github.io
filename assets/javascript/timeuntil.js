@@ -7,5 +7,13 @@ $(document).ready(function() {
         $("#min").text(obj.minutes);
         $("#seconds").text(obj.seconds);
     });
+
+    $("#babyS").click(() => {
+        //Baby Blue
+        // $(".section").css("background-color", "#BEE3F5");
+
+        //Baby Pink
+         $(".section").css("background-color", "#FCC3C3");
+    })
 });
 
