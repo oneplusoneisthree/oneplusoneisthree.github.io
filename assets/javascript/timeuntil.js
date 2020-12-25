@@ -10,10 +10,10 @@ $(document).ready(function() {
 
     $("#babyS").click(() => {
         //Baby Blue
-        // $(".section").css("background-color", "#BEE3F5");
+        $(".section").css("background-color", "#BEE3F5");
 
         //Baby Pink
-         $(".section").css("background-color", "#FCC3C3");
+        // $(".section").css("background-color", "#FCC3C3");
     })
 });
 
