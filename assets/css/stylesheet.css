@@ -87,6 +87,10 @@ body {
     text-align:center;
     transition: all 0.2s;
 }
+#rain:hover{
+    color:#000000;
+    background-color:#89cff0;
+}
 @media all and (max-width:30em){
     #rain {
         display: block;
